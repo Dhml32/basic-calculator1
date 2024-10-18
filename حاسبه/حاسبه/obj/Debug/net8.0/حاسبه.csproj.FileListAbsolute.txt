@@ -1,0 +1,14 @@
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\bin\Debug\net8.0\حاسبه.exe
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\bin\Debug\net8.0\حاسبه.deps.json
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\bin\Debug\net8.0\حاسبه.runtimeconfig.json
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\bin\Debug\net8.0\حاسبه.dll
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\bin\Debug\net8.0\حاسبه.pdb
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.AssemblyInfoInputs.cache
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.AssemblyInfo.cs
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.csproj.CoreCompileInputs.cache
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.dll
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\refint\حاسبه.dll
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.pdb
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\حاسبه.genruntimeconfig.cache
+c:\Users\H\Desktop\C#\حاسبه\حاسبه\obj\Debug\net8.0\ref\حاسبه.dll
